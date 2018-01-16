@@ -1,5 +1,5 @@
-print("Hello World!");
-print("Hello everybody");
-добавили текст в основую ветку
+print("Hello World!;");
+print("Hello everybody;");
+добавили текст в основую ветку;
 разбираю урок о конфликтах 
 еще какие то изменения
